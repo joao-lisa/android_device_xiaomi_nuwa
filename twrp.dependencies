@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "https://github.com/TeamWin/android_device_qcom_twrp-common",
+    "target_path": "device/qcom/common",
+    "branch": "android-11"
+  }
+]
